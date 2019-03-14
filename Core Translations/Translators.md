@@ -8,10 +8,17 @@ When you make a pull request to this repository, please add your name and the la
 ## Core Translators
 
 Example: 1. GravyTrain - French
+
 1.
+
 2.
+
 3.
+
 4.
+
 5.
+
 6.
+
 7.
