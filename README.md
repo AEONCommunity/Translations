@@ -2,7 +2,7 @@
 
 This repository is for translations of Aeon related materials or links for Language specific translations
 
-Please review the Translations_Readme.docx file for translating information. Likewise, see the Translations_Readme.md for those unable to view .docx files. 
+Please review the [Translations_Readme.docx](https://github.com/AEONCommunity/Translations/blob/master/Translations_Readme.docx) file for translating information. Likewise, see the [Translations_Readme.md](https://github.com/AEONCommunity/Translations/blob/master/Translations_Readme.md) for those unable to view .docx files. 
 
 ## Translation Repositories
 
