@@ -23,9 +23,9 @@ Please review the [Translations_Readme.docx](https://github.com/AEONCommunity/Tr
 
 3a: If translating how-to's just create a file format of your choice with the translated material and photos (or create a medium account and translate to your own medium blog as well)
 
-4: Go to the desired Aeon Community Repository listed above and select "Upload Files" and upload your translated files
+4: Go to the desired Aeon Community Repository listed above and select "Upload Files" and upload your translated files to a new folder in that directory for your specific language
 
-5: Edit the "Translators.md" file and add in your information 
+5: Edit the "Translators.md" file and add in your information of what you translated
 
 6: Wait for peer review
 
