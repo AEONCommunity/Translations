@@ -9,7 +9,7 @@ When you make a pull request to this repository, please add your name and the la
 
 Example: 1. GravyTrain - French
 
-1. 420coupe - Spanish
+1. 420coupe - Spanish cli and gui ReadMe.md and contributing.md files
 
 2.
 
