@@ -27,9 +27,11 @@ Please review the [Translations_Readme.docx](https://github.com/AEONCommunity/Tr
 
 5: Edit the "Translators.md" file and add in your information of what you translated
 
-6: Wait for peer review
+6: >> Wait for peer review and merge of your content <<
 
 7: Smile and let the community know you helped them out with a new translation and provide a link to your file on GitHub after it is approved! If you have twitter, also tag @AeonCommunity and @AeonCoin in yout tweet!
+
+8: Create AFS proposal for your work done and include the amount broken down based off translation_readme.md and provide links to merged content. Example AFS proposal [HERE](https://aeonfunding.com/proposal/27). 
 
 ## Additional Information
 
