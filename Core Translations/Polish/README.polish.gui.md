@@ -54,7 +54,7 @@ Istnieje również kilka kopalni, które uprzejmie przekazują część swoich z
 
 ## Licencja
 
-Zobacz[Licencja](LICENCJA).
+Zobacz [Licencja](LICENCJA).
 
 ## Instalacja Aeon GUI z pakietu
 

@@ -90,7 +90,7 @@ konflikty (nawet trywialnie rozwiązywalne).
 Zachęca się do podpisywania podpisem PGP. To powinno wyjaśniać dlaczego
 poprzedni akapit jest tutaj.
 
-# [Kodeks postępowania (22 / C4.1)] (http://rfc.zeromq.org/spec:22)
+# [Code of Conduct (22/C4.1)](http://rfc.zeromq.org/spec:22)
 
 ## Licencja
 
