@@ -11,7 +11,7 @@ Example: 1. GravyTrain - French
 
 1. 420coupe - Spanish cli and gui ReadMe.md and contributing.md files
 
-2. ArqTras - Polish cli and gui ReadMe.md and contributing files
+2. ArqTras - Polish cli and gui ReadMe.md and contributing.md files
 
 3.
 
