@@ -91,8 +91,7 @@ Jeśli chcesz pomóc zobacz sekcję [Wsparcie](CONTRIBUTING.polish.md) gdzie zna
 ## Aktualizacje oprogramowania
 
 Aeon używa mechanizmu aktualizacji oprogramowania (hard fork) do implementacji nowych funkcji. Oznacza to, że użytkownicy Aeon (użytkownicy końcowi i dostawcy usług) powinni uruchamiać bieżące wersje i aktualizować oprogramowanie w razie potrzeby. **W przeciwieństwie do Monero, nie ma ustalonego harmonogramu dla hard forków, a harmonogram następnego forku zostanie określony organicznie poprzez dyskusję społeczności.** Wymagane oprogramowanie do tych aktualizacji będzie dostępne przed zaplanowaną datą. Proszę sprawdzić repozytorium przed tą datą, aby uzyskać właściwą wersję oprogramowania Aeon. Poniżej znajduje się harmonogram historyczny i przewidywany harmonogram następnej aktualizacji.
-DData przedstawiona jest w formacie RRRR-MM-DD. 
-
+DData przedstawiona jest w formacie RRRR-MM-DD.
 
 
 | Software upgrade block height | Date       | Fork version | Minimum Aeon version | Recommended Aeon version | Details                                                                            |  
@@ -112,6 +111,7 @@ systemie, źródło zewnętrzne zostanie zbudowane i użyte. Zewnętrzne
 źródła są również używane do kompilacji statycznej, ponieważ dystrybuowane
 pakiety często zawierają tylko pliki binarne biblioteki współdzielonej (`.so`), ale nie są statyczne
 archiwa biblioteczne (`.a`).
+
 | Dep          | Min. version  | Vendored | Debian/Ubuntu pkg  | Arch pkg     | Fedora            | Optional | Purpose        |
 | ------------ | ------------- | -------- | ------------------ | ------------ | ----------------- | -------- | -------------- |
 | GCC          | 4.7.3         | NO       | `build-essential`  | `base-devel` | `gcc`             | NO       |                |
