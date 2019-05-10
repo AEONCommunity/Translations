@@ -57,8 +57,8 @@ Aeon Community Github: https://github.com/AEONCommunity/Translations
 
 We have earmarked 5000 Aeon from the dev fund to help move this project forward. Members of the community will be compensated on a per-summitted basis of translations. If community members desire to submit multiple translations, they will be compensated in a bulk payment method. Compensation will occur after translated material has been reviewed and submitted to the Aeon Community GitHub repository in their translation specific repositories. Compensation will be as follows PER language:
 
-* Core Aeon translations of CLI & GUI ReadMe.md and CONTRIBUTING.md files: 100 Aeon
+* Core Aeon translations of CLI & GUI ReadMe.md and CONTRIBUTING.md files: 150 Aeon
 
-* Aeon.Cash full webpage translation (all associated html files): 100 Aeon
+* Aeon.Cash full webpage translation (all associated html files): 50 Aeon
 
 * Medium Blog Post How-To’s: 20 Aeon per translation 
