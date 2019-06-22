@@ -15,7 +15,7 @@ Example: 1. GravyTrain - French
 
 3. AmorbiaCacoa - German cli and gui ReadMe.md and contributing.md files
 
-4.
+4. TheFuzzStone - Russian cli and gui ReadMe.md and contributing.md files
 
 5.
 
